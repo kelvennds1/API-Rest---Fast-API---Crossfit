@@ -1,0 +1,1286 @@
+[
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "Connection",
+        "importPath": "sqlalchemy.engine",
+        "description": "sqlalchemy.engine",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.engine",
+        "documentation": {}
+    },
+    {
+        "label": "async_engine_from_config",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workout_api.contrib.models",
+        "description": "workout_api.contrib.models",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workout_api.contrib.models",
+        "description": "workout_api.contrib.models",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workout_api.contrib.models",
+        "description": "workout_api.contrib.models",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workout_api.contrib.models",
+        "description": "workout_api.contrib.models",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "workout_api.contrib.repository.models",
+        "description": "workout_api.contrib.repository.models",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.repository.models",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "PositiveFloat",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaModel",
+        "importPath": "workout_api.categorias.models",
+        "description": "workout_api.categorias.models",
+        "isExtraImport": true,
+        "detail": "workout_api.categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaModel",
+        "importPath": "workout_api.categorias.models",
+        "description": "workout_api.categorias.models",
+        "isExtraImport": true,
+        "detail": "workout_api.categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaModel",
+        "importPath": "workout_api.categorias.models",
+        "description": "workout_api.categorias.models",
+        "isExtraImport": true,
+        "detail": "workout_api.categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseDependency",
+        "importPath": "workout_api.contrib.dependencies",
+        "description": "workout_api.contrib.dependencies",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseDependency",
+        "importPath": "workout_api.contrib.dependencies",
+        "description": "workout_api.contrib.dependencies",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseDependency",
+        "importPath": "workout_api.contrib.dependencies",
+        "description": "workout_api.contrib.dependencies",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaIn",
+        "importPath": "workout_api.atleta.schemas",
+        "description": "workout_api.atleta.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaOut",
+        "importPath": "workout_api.atleta.schemas",
+        "description": "workout_api.atleta.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaUpdate",
+        "importPath": "workout_api.atleta.schemas",
+        "description": "workout_api.atleta.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaModel",
+        "importPath": "workout_api.atleta.models",
+        "description": "workout_api.atleta.models",
+        "isExtraImport": true,
+        "detail": "workout_api.atleta.models",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaModel",
+        "importPath": "workout_api.atleta.models",
+        "description": "workout_api.atleta.models",
+        "isExtraImport": true,
+        "detail": "workout_api.atleta.models",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoModel",
+        "importPath": "workout_api.centro_treinamento.models",
+        "description": "workout_api.centro_treinamento.models",
+        "isExtraImport": true,
+        "detail": "workout_api.centro_treinamento.models",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoModel",
+        "importPath": "workout_api.centro_treinamento.models",
+        "description": "workout_api.centro_treinamento.models",
+        "isExtraImport": true,
+        "detail": "workout_api.centro_treinamento.models",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoModel",
+        "importPath": "workout_api.centro_treinamento.models",
+        "description": "workout_api.centro_treinamento.models",
+        "isExtraImport": true,
+        "detail": "workout_api.centro_treinamento.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaIn",
+        "importPath": "workout_api.categorias.schemas",
+        "description": "workout_api.categorias.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.categorias.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaIn",
+        "importPath": "workout_api.categorias.schemas",
+        "description": "workout_api.categorias.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.categorias.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaOut",
+        "importPath": "workout_api.categorias.schemas",
+        "description": "workout_api.categorias.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.categorias.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoAtleta",
+        "importPath": "workout_api.centro_treinamento.schemas",
+        "description": "workout_api.centro_treinamento.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.centro_treinamento.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoIn",
+        "importPath": "workout_api.centro_treinamento.schemas",
+        "description": "workout_api.centro_treinamento.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.centro_treinamento.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoOut",
+        "importPath": "workout_api.centro_treinamento.schemas",
+        "description": "workout_api.centro_treinamento.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.centro_treinamento.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSchema",
+        "importPath": "workout_api.contrib.schemas",
+        "description": "workout_api.contrib.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OutMixIn",
+        "importPath": "workout_api.contrib.schemas",
+        "description": "workout_api.contrib.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSchema",
+        "importPath": "workout_api.contrib.schemas",
+        "description": "workout_api.contrib.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSchema",
+        "importPath": "workout_api.contrib.schemas",
+        "description": "workout_api.contrib.schemas",
+        "isExtraImport": true,
+        "detail": "workout_api.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "workout_api.configs.settings",
+        "description": "workout_api.configs.settings",
+        "isExtraImport": true,
+        "detail": "workout_api.configs.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "workout_api.configs.database",
+        "description": "workout_api.configs.database",
+        "isExtraImport": true,
+        "detail": "workout_api.configs.database",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "importPath": "workout_api.routers",
+        "description": "workout_api.routers",
+        "isExtraImport": true,
+        "detail": "workout_api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "workout_api.centro_treinamento.controller",
+        "description": "workout_api.centro_treinamento.controller",
+        "isExtraImport": true,
+        "detail": "workout_api.centro_treinamento.controller",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "workout_api.atleta.controller",
+        "description": "workout_api.atleta.controller",
+        "isExtraImport": true,
+        "detail": "workout_api.atleta.controller",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "workout_api.categorias.controller",
+        "description": "workout_api.categorias.controller",
+        "isExtraImport": true,
+        "detail": "workout_api.categorias.controller",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.2ad52ab9ab59_v2",
+        "description": "alembic.versions.2ad52ab9ab59_v2",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('atletas', sa.Column('sexo', sa.String(length=2), nullable=False))\n    op.drop_column('atletas', 'sexto')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('atletas', sa.Column('sexto', sa.VARCHAR(length=1), autoincrement=False, nullable=False))\n    op.drop_column('atletas', 'sexo')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.2ad52ab9ab59_v2",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.2ad52ab9ab59_v2",
+        "description": "alembic.versions.2ad52ab9ab59_v2",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('atletas', sa.Column('sexto', sa.VARCHAR(length=1), autoincrement=False, nullable=False))\n    op.drop_column('atletas', 'sexo')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.2ad52ab9ab59_v2",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.39a188e47b32_init_db",
+        "description": "alembic.versions.39a188e47b32_init_db",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('categorias',\n    sa.Column('pk_id', sa.Integer(), nullable=False),\n    sa.Column('nome', sa.String(length=10), nullable=False),\n    sa.Column('id', sa.UUID(), nullable=False),\n    sa.PrimaryKeyConstraint('pk_id'),\n    sa.UniqueConstraint('nome')\n    )\n    op.create_table('centros_treinamento',",
+        "detail": "alembic.versions.39a188e47b32_init_db",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.39a188e47b32_init_db",
+        "description": "alembic.versions.39a188e47b32_init_db",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('atletas')\n    op.drop_table('centros_treinamento')\n    op.drop_table('categorias')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.39a188e47b32_init_db",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():\n        context.run_migrations()",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "do_run_migrations",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def do_run_migrations(connection: Connection) -> None:\n    context.configure(connection=connection, target_metadata=target_metadata)\n    with context.begin_transaction():\n        context.run_migrations()\nasync def run_async_migrations() -> None:\n    connectable = async_engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    asyncio.run(run_async_migrations())\nif context.is_offline_mode():\n    run_migrations_offline()\nelse:\n    run_migrations_online()",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "config = context.config\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\ntarget_metadata = BaseModel.metadata\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "target_metadata = BaseModel.metadata\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "workout_api.atleta.controller",
+        "description": "workout_api.atleta.controller",
+        "peekOfCode": "router = APIRouter()\n@router.post(\n        path=\"/\", \n        summary='Criar novo atleta', \n        status_code=status.HTTP_201_CREATED,\n        response_model=AtletaOut\n)\nasync def post(\n    db_session: DatabaseDependency,\n    atleta_in: AtletaIn = Body(...)",
+        "detail": "workout_api.atleta.controller",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaModel",
+        "kind": 6,
+        "importPath": "workout_api.atleta.models",
+        "description": "workout_api.atleta.models",
+        "peekOfCode": "class AtletaModel(BaseModel):\n    __tablename__ = 'atletas'\n    pk_id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    nome: Mapped[str] = mapped_column(String(50), nullable=False)\n    cpf: Mapped[str] = mapped_column(String(11), unique=True, nullable=False)\n    idade: Mapped[int] = mapped_column(Integer, nullable=False)\n    peso: Mapped[float] = mapped_column(Float, nullable=False)\n    altura: Mapped[float] = mapped_column(Float, nullable=False)\n    sexo: Mapped[str] = mapped_column(String(1), nullable=False)\n    created_at: Mapped[datetime] = mapped_column(DateTime, nullable=False)",
+        "detail": "workout_api.atleta.models",
+        "documentation": {}
+    },
+    {
+        "label": "Atleta",
+        "kind": 6,
+        "importPath": "workout_api.atleta.schemas",
+        "description": "workout_api.atleta.schemas",
+        "peekOfCode": "class Atleta(BaseSchema):\n    nome: Annotated[str, Field(description='Nome do atleta', example='Joao', max_length=50)]\n    cpf: Annotated[str, Field(description='CPF do atleta', example='12345678900', max_length=11)]\n    idade: Annotated[int, Field(description='Idade do atleta', example=25)]\n    peso: Annotated[PositiveFloat, Field(description='Peso do atleta', example=75.5)]\n    altura: Annotated[PositiveFloat, Field(description='Altura do atleta', example=1.70)]\n    sexo: Annotated[str, Field(description='Sexo do atleta', example='M', max_length=1)]\n    categoria: Annotated[CategoriaIn, Field(description='Categoria do atleta')]\n    centro_treinamento: Annotated[CentroTreinamentoAtleta, Field(description='Centro de treinamento do atleta')]\nclass AtletaIn(Atleta):",
+        "detail": "workout_api.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaIn",
+        "kind": 6,
+        "importPath": "workout_api.atleta.schemas",
+        "description": "workout_api.atleta.schemas",
+        "peekOfCode": "class AtletaIn(Atleta):\n    pass\nclass AtletaOut(Atleta, OutMixIn):\n    pass\nclass AtletaUpdate(BaseSchema):\n    nome: Annotated[Optional[str], Field(None, description='Nome do atleta', example='Joao', max_length=50)]\n    idade: Annotated[Optional[int], Field(None, description='Idade do atleta', example=25)]",
+        "detail": "workout_api.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaOut",
+        "kind": 6,
+        "importPath": "workout_api.atleta.schemas",
+        "description": "workout_api.atleta.schemas",
+        "peekOfCode": "class AtletaOut(Atleta, OutMixIn):\n    pass\nclass AtletaUpdate(BaseSchema):\n    nome: Annotated[Optional[str], Field(None, description='Nome do atleta', example='Joao', max_length=50)]\n    idade: Annotated[Optional[int], Field(None, description='Idade do atleta', example=25)]",
+        "detail": "workout_api.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaUpdate",
+        "kind": 6,
+        "importPath": "workout_api.atleta.schemas",
+        "description": "workout_api.atleta.schemas",
+        "peekOfCode": "class AtletaUpdate(BaseSchema):\n    nome: Annotated[Optional[str], Field(None, description='Nome do atleta', example='Joao', max_length=50)]\n    idade: Annotated[Optional[int], Field(None, description='Idade do atleta', example=25)]",
+        "detail": "workout_api.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "workout_api.categorias.controller",
+        "description": "workout_api.categorias.controller",
+        "peekOfCode": "router = APIRouter()\n@router.post(\n        path=\"/\", \n        summary='Criar nova categoria', \n        status_code=status.HTTP_201_CREATED,\n        response_model=CategoriaOut\n)\nasync def post(\n    db_session: DatabaseDependency, \n    categoria_in: CategoriaIn = Body(...)",
+        "detail": "workout_api.categorias.controller",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaModel",
+        "kind": 6,
+        "importPath": "workout_api.categorias.models",
+        "description": "workout_api.categorias.models",
+        "peekOfCode": "class CategoriaModel(BaseModel):\n    __tablename__ = 'categorias'\n    pk_id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    nome: Mapped[str] = mapped_column(String(10), unique=True, nullable=False)\n    atleta: Mapped['AtletaModel'] = relationship(back_populates='categoria')",
+        "detail": "workout_api.categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaIn",
+        "kind": 6,
+        "importPath": "workout_api.categorias.schemas",
+        "description": "workout_api.categorias.schemas",
+        "peekOfCode": "class CategoriaIn(BaseSchema):\n    nome: Annotated[str, Field(description='Nome da Categoria', example='Scale', max_length=10)]   \nclass CategoriaOut(CategoriaIn):\n    id: Annotated[UUID4, Field(description='Indentificador da categoria')]",
+        "detail": "workout_api.categorias.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaOut",
+        "kind": 6,
+        "importPath": "workout_api.categorias.schemas",
+        "description": "workout_api.categorias.schemas",
+        "peekOfCode": "class CategoriaOut(CategoriaIn):\n    id: Annotated[UUID4, Field(description='Indentificador da categoria')]",
+        "detail": "workout_api.categorias.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "workout_api.centro_treinamento.controller",
+        "description": "workout_api.centro_treinamento.controller",
+        "peekOfCode": "router = APIRouter()\n@router.post(\n        path=\"/\", \n        summary='Criar novo centro de treinamento', \n        status_code=status.HTTP_201_CREATED,\n        response_model=CentroTreinamentoOut\n)\nasync def post(\n    db_session: DatabaseDependency, \n    centro_treinamento_in: CentroTreinamentoIn = Body(...)",
+        "detail": "workout_api.centro_treinamento.controller",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoModel",
+        "kind": 6,
+        "importPath": "workout_api.centro_treinamento.models",
+        "description": "workout_api.centro_treinamento.models",
+        "peekOfCode": "class CentroTreinamentoModel(BaseModel):\n    __tablename__ = 'centros_treinamento'\n    pk_id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    nome: Mapped[str] = mapped_column(String(50),  unique=True, nullable=False)\n    endereco: Mapped[str] = mapped_column(String(60), nullable=False)\n    proprietario: Mapped[str] = mapped_column(String(30), nullable=False)\n    atleta: Mapped['AtletaModel'] = relationship(back_populates='centro_treinamento')",
+        "detail": "workout_api.centro_treinamento.models",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoIn",
+        "kind": 6,
+        "importPath": "workout_api.centro_treinamento.schemas",
+        "description": "workout_api.centro_treinamento.schemas",
+        "peekOfCode": "class CentroTreinamentoIn(BaseSchema):\n    nome: Annotated[str, Field(description='Nome do Centro de Treinamento', example='CT Fire', max_length=50)] \n    endereco: Annotated[str, Field(description='Endereço do Centro de Treinamento', example='SHS 12, Lote 1 - Asa Sul', max_length=60)]   \n    proprietario: Annotated[str, Field(description='Proprietário do  Centro de Treinamento', example='Felipe', max_length=30)]   \nclass CentroTreinamentoAtleta(BaseSchema):\n    nome: Annotated[str, Field(description='Nome do Centro de Treinamento', example='CT Fire', max_length=50)] \nclass CentroTreinamentoOut(CentroTreinamentoIn):\n    id: Annotated[UUID4, Field(description='Indentificador do centro de treinamento')]",
+        "detail": "workout_api.centro_treinamento.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoAtleta",
+        "kind": 6,
+        "importPath": "workout_api.centro_treinamento.schemas",
+        "description": "workout_api.centro_treinamento.schemas",
+        "peekOfCode": "class CentroTreinamentoAtleta(BaseSchema):\n    nome: Annotated[str, Field(description='Nome do Centro de Treinamento', example='CT Fire', max_length=50)] \nclass CentroTreinamentoOut(CentroTreinamentoIn):\n    id: Annotated[UUID4, Field(description='Indentificador do centro de treinamento')]",
+        "detail": "workout_api.centro_treinamento.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentoOut",
+        "kind": 6,
+        "importPath": "workout_api.centro_treinamento.schemas",
+        "description": "workout_api.centro_treinamento.schemas",
+        "peekOfCode": "class CentroTreinamentoOut(CentroTreinamentoIn):\n    id: Annotated[UUID4, Field(description='Indentificador do centro de treinamento')]",
+        "detail": "workout_api.centro_treinamento.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "workout_api.configs.database",
+        "description": "workout_api.configs.database",
+        "peekOfCode": "engine = create_async_engine(settings.DB_URL, echo=False,)\nasync_session = sessionmaker(\n    engine, class_= AsyncSession, expire_on_commit=False\n)\nasync def get_session() -> AsyncGenerator:\n    async with async_session() as session:\n        yield session",
+        "detail": "workout_api.configs.database",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "kind": 5,
+        "importPath": "workout_api.configs.database",
+        "description": "workout_api.configs.database",
+        "peekOfCode": "async_session = sessionmaker(\n    engine, class_= AsyncSession, expire_on_commit=False\n)\nasync def get_session() -> AsyncGenerator:\n    async with async_session() as session:\n        yield session",
+        "detail": "workout_api.configs.database",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "workout_api.configs.settings",
+        "description": "workout_api.configs.settings",
+        "peekOfCode": "class Settings(BaseSettings):\n    DB_URL: str = Field(default='postgresql+asyncpg://workout:workout@localhost/workout')\nsettings = Settings()",
+        "detail": "workout_api.configs.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "workout_api.configs.settings",
+        "description": "workout_api.configs.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "workout_api.configs.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseDependency",
+        "kind": 5,
+        "importPath": "workout_api.contrib.dependencies",
+        "description": "workout_api.contrib.dependencies",
+        "peekOfCode": "DatabaseDependency = Annotated[AsyncSession, Depends(get_session)]",
+        "detail": "workout_api.contrib.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "workout_api.contrib.models",
+        "description": "workout_api.contrib.models",
+        "peekOfCode": "class BaseModel(DeclarativeBase):\n    id: Mapped[UUID] = mapped_column(PG_UUID(as_uuid=True), default=uuid4, nullable=False)",
+        "detail": "workout_api.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSchema",
+        "kind": 6,
+        "importPath": "workout_api.contrib.schemas",
+        "description": "workout_api.contrib.schemas",
+        "peekOfCode": "class BaseSchema(BaseModel):\n    class Config:\n        extra = 'forbid'\n        from_attributes = True\nclass OutMixIn(BaseSchema):\n    id: Annotated[UUID4, Field(description='Indentificador')]\n    created_at: Annotated[datetime, Field(description='Data de criação')]",
+        "detail": "workout_api.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OutMixIn",
+        "kind": 6,
+        "importPath": "workout_api.contrib.schemas",
+        "description": "workout_api.contrib.schemas",
+        "peekOfCode": "class OutMixIn(BaseSchema):\n    id: Annotated[UUID4, Field(description='Indentificador')]\n    created_at: Annotated[datetime, Field(description='Data de criação')]",
+        "detail": "workout_api.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "workout_api.main",
+        "description": "workout_api.main",
+        "peekOfCode": "app = FastAPI(title='WorkoutApi')\napp.include_router(api_router)",
+        "detail": "workout_api.main",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "kind": 5,
+        "importPath": "workout_api.routers",
+        "description": "workout_api.routers",
+        "peekOfCode": "api_router = APIRouter()\napi_router.include_router(atleta, prefix='/atletas', tags=['Aletas'])\napi_router.include_router(categorias, prefix='/categorias', tags=['Categorias'])\napi_router.include_router(centro_treinamento, prefix='/centros_treinamento', tags=['Centros Treinamento'])",
+        "detail": "workout_api.routers",
+        "documentation": {}
+    }
+]
